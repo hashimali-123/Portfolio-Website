@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a personal portfolio website showcasing my web development skills, projects, and contact information. The site includes sections for home, about, projects, and contact, with a responsive design and interactive elements.
+This is a personal portfolio website showcasing web development skills, projects, and contact information. The site includes sections for home, about, projects, and contact, with a responsive design and interactive elements.
 
 ## Features
 
